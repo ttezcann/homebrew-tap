@@ -3,8 +3,8 @@ class Knotis < Formula
 
   desc "Teaching-focused extension to Zensical"
   homepage "https://github.com/ttezcann/knotis"
-  url "https://files.pythonhosted.org/packages/9f/af/8bfb8abe6a7cc6000cfbbf047ba73a4738f0a2242d781cb38b353af37bdb/knotis-0.1.10.tar.gz"
-  sha256 "b118a54362cfdb7d53255ab3cbbe697a6197ceb1cd3478945223d0507c70b6f0"
+  url "https://files.pythonhosted.org/packages/ff/01/6254308ab66ff83cf9bcc064cc3a0d19af69904cf67ffc77342d6a9c036c/knotis-0.2.0.tar.gz"
+  sha256 "27616b2e4af76f3498405ce3ee81a99bb5be04831906eef00ccad8ec07310233"
   license "MIT"
 
   depends_on "rust" => :build
